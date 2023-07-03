@@ -1,7 +1,7 @@
 {
     "builds": [
       {
-        "src": "api/__init__.py",
+        "src": "/amcat4/api/__init__.py",
         "use": "@vercel/python"
       }
     ],
