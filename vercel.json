@@ -8,7 +8,7 @@
     "routes": [
       {
         "src": "/(.*)",
-        "dest": "api/__init__.py"
+        "dest": "/amcat4/api/__init__.py"
       }
     ]
   }
