@@ -1,0 +1,10 @@
+fastapi[all]
+elasticsearch~=8.6
+python-multipart
+python-dotenv
+requests
+authlib
+pydantic[email]
+pydantic-settings
+uvicorn
+requests
